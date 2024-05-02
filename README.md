@@ -78,7 +78,7 @@ The function uses the sort method to sort the array of contacts, which could cha
 
 ReadContactsFromCSV function:
 
-Callback, a function, and file_path, a string, are the parameters.
+Callback, a function, and csvFilePath, a string, are the parameters.
 The contacts array is filled by the function by reading contacts from a CSV file. Next, the callback method (callback(contacts)) receives the array.
 
 
@@ -97,9 +97,9 @@ Once more, the contacts argument refers to the initial list. Due of the mutabili
 
 The function read_contacts_from_csv
 
-File_path is a parameter (string).
-The value is supplied to the file_path parameter.
+csv_file_path is a parameter (string).
+The value is supplied to the csv_file_path parameter.
 
 User Input:
 
-Through the usage of the input function, search_name is acquired from user input. Value is used to pass this variable.
+Through the usage of the input function, search_name_py is acquired from user input. Value is used to pass this variable.
