@@ -7,7 +7,7 @@ Python   Vs  JavaScript
 
 Major Difference in the Programming Languages:
 
-**1 - Garbage Colletion Method **
+**1 - Garbage Colletion Method**
 
 In python :
 Python captures garbage by using a cycle detector in conjunction with reference counting.
