@@ -7,7 +7,7 @@ Python   Vs  JavaScript
 
 Major Difference in the Programming Languages:
 
-1 - Garbage Colletion Method 
+**1 - Garbage Colletion Method **
 
 In python :
 Python captures garbage by using a cycle detector in conjunction with reference counting.
@@ -32,7 +32,7 @@ For JavaScript we have also have 2 method however, the main source of dependency
     2. Generational Garbage Method
     Generational garbage collection, which divides objects into two or more generations (young and old), is a common feature of modern JavaScript engines. Items that make it through several garbage collection cycles are given preference to earlier generations. There is a greater tendency to collect younger generations compared to older generations.
 
-2 - Different Programming Paradigm
+**2 - Different Programming Paradigm**
 
 Python is an Object Oriented Programming Langugage. 
 
@@ -50,7 +50,7 @@ Functional programming has good support in JavaScript. Functions can be assigned
 
 It also provide in-built functions like 'maps', 'filters', 'reduce' that can be used in arrays.
 
-3 - Parameter Passing Method
+**3 - Parameter Passing Method**
 
 Python:
 
